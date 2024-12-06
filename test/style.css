@@ -1,0 +1,103 @@
+body {
+    font-family: 'Inter';
+    background-color: #f9f9f9;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+a:hover{
+    color:#0e41c2;
+}
+.btn:hover{
+    background-color:#1048d4 ;
+}
+.newsletter-section{
+    background-color: #fff;
+}
+/* Responsive adjustments */
+
+.header-section h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.header-section p {
+    font-size: 1rem;
+    text-align: center;
+}
+
+.search-bar {
+    flex: 1;
+}
+
+.navbar .btn {
+    margin-top: 10px;
+}
+.image1{
+    height: 40px;
+    width: 40px;
+}
+.btnlogin{
+    border-radius: 5px;
+    background-color:#1048d4 ;
+    color: white;
+   
+}
+.btnlogin1{
+    margin-left: 10px;
+    border-radius: 5px;
+    background-color:#1048d4 ;
+    color: white;
+   
+}
+.para{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.para1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.para2{
+    margin-left: 300px;
+    color: #1048d4;
+}
+.div1{
+    margin-left: 280px;
+}
+.it{
+    margin-left:300px ;
+}
+.hi{
+    margin-left: 300px;
+}
+.hello{
+    margin-left: 280px;
+}
+
+.para3{
+    
+    color: #1048d4;
+}
+
+.he{
+    margin-left: 300px;
+}
+.h2{
+    margin-left: 300px;
+}
+.emailcontainer{
+    margin-left: 300px;
+}
+.hes{
+    background-color: #1048d4;
+    color: white;
+    border-radius: 5px;
+}
+footer{
+    background-image: url(images/Frame\ 27.png);
+}
